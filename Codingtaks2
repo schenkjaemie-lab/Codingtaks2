@@ -129,3 +129,7 @@ print(f"RMSE: {rmse:.4f}")
 print(f"R²: {r2:.4f}")
 
 ---
+Results:
+MAE: 0.0094
+RMSE: 0.0191
+R²: 0.5965
