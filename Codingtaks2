@@ -130,7 +130,7 @@ print(f"R²: {r2:.4f}")
 
 ---
 Results:
-Bld2 and 
+Bild1 and Molecules1
 MAE: 0.0094
 RMSE: 0.0191
 R²: 0.5965
