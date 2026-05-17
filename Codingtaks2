@@ -703,6 +703,7 @@ plt.title(f"XGBoost Performance (R² = {r2:.4f})")
 plt.show()
 
 results:
+Because XGBoost builds the trees one ata time and learns from the previous one it is able to learn more also I think the fingerprints and other descriptors help it alot.
 
 Bild5
 MAE: 0.004973
